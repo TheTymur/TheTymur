@@ -1,6 +1,6 @@
 # Hi there, I'm Tymur 👋
 
-### 🎓 Student at Krakow University of Technology (Politechnika Krakowska)
+### 🎓 Student at Cracow University of Technology (Politechnika Krakowska)
 
 ### About Me
 I am a developer and student with a passion for building systems that solve problems—and create fun. I have a strong interest in the logic behind games and the power of data.
