@@ -3,7 +3,7 @@
 ### 🎓 Student at Cracow University of Technology (Politechnika Krakowska)
 
 ### About Me
-I am a developer and student with a passion for building systems that solve problems—and create fun. I have a strong interest in the logic behind games and the power of data.
+I am a developer and student with a passion for building systems that solve problems - and create fun. I have a strong interest in the logic behind games and the power of data.
 
 ### What I'm Up To
 - **Current Project:** I'm building my personal **portfolio website** from scratch.
