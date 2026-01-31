@@ -12,8 +12,9 @@ I am a developer and student with a passion for building systems that solve prob
 - **Brainstorming:** Currently planning future projects to apply AI methods to practical software.
 
 ### ⚡ Fun Fact
-> **I’m in love with complex board games.**
-> My long-term goal is to digitalize my favorites to create a more immersive and impressive experience for players!
+ **I’m in love with complex board games.**
+ 
+ My long-term goal is to digitalize my favorites to create a more immersive and impressive experience for players!
 
 ### Languages
 * **English**
